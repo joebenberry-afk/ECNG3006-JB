@@ -1,0 +1,13 @@
+# serial capture from COM7, 12 s
+[case_b preemptive binary-sem prio 3/2/1] t=2040 ms | runs T1=3 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=3040 ms | runs T1=5 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=4040 ms | runs T1=7 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=5040 ms | runs T1=9 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=6040 ms | runs T1=11 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=7040 ms | runs T1=13 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=8040 ms | runs T1=15 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=9040 ms | runs T1=17 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=10040 ms | runs T1=19 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=11040 ms | runs T1=21 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=12040 ms | runs T1=23 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
+[case_b preemptive binary-sem prio 3/2/1] t=13040 ms | runs T1=25 T2=0 T3=0 | gap ms T1=500 T2=0 T3=0 | wait ms T1=0 T2=0 T3=0
